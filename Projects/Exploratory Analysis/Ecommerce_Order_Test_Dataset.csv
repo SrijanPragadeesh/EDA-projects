@@ -1,0 +1,102 @@
+Order_ID,Order_Date,Delivery_Date,Customer_Name,Gender,City,Category,Product,Payment_Mode,Quantity,Unit_Price,Discount,Rating
+ORD0001,01-01-2025,06-01-2025,Customer_058,Male, Mumbai ,Clothing,Jacket, upi ,5,1470.84,0.05,4.4
+ORD0002,02-01-2025,05-01-2025,Customer_001,Male,Delhi,Books,Data Science Guide,Debit Card,3,2114.91,0.2,3
+ORD0003,04-01-2025,06-01-2025,Customer_047, male, Mumbai ,Electronics,Keyboard,Cash,3,3053.63,0.2,3.3
+ORD0004,06-01-2025,09-01-2025,Customer_034,Female,Chennai,Clothing,Sneakers,Debit Card,2,1427.69,0,3.6
+ORD0005,08-01-2025,15-01-2025,Customer_032,Female ,Coimbatore,Clothing,Jeans,UPI,4,752.61,0.2,3.8
+ORD0006,10-01-2025,11-01-2025,Customer_054,FEMALE,Madurai,Books,Data Science Guide,UPI,1,473.38,0,3.1
+ORD0007,11-01-2025,13-01-2025,Customer_048,Female,Delhi,Electronics,Keyboard,Cash,2,4708.61,0.15,2.8
+ORD0008,13-01-2025,18-01-2025,Customer_025,FEMALE,,Electronics,USB Cable,Cash,2,2141.53,0.05,4
+ORD0009,15-01-2025,17-01-2025,Customer_040, male,Pune,Clothing,Jeans, upi ,4,2947.7,0.05,3.2
+ORD0010,17-01-2025,19-01-2025,Customer_045, male,Madurai,Home,Storage Box, upi ,1,4603.97,0,4
+ORD0011,19-01-2025,21-01-2025,Customer_053,Male, Mumbai ,Clothing,Sneakers,Debit Card,5,505.47,0.05,2.9
+ORD0012,21-01-2025,27-01-2025,Customer_001,Female , Mumbai ,Clothing,Jacket,Cash,5,4395.64,0.2,3.7
+ORD0013,22-01-2025,24-01-2025,Customer_016,FEMALE,Madurai,Clothing,Sneakers,UPI,2,2802.78,0.1,3.8
+ORD0014,24-01-2025,27-01-2025,Customer_039,Female, Mumbai ,Clothing,Jeans, upi ,1,907.69,0,2.6
+ORD0015,26-01-2025,27-01-2025,Customer_005, male,Hyderabad,Books,Novel, upi ,2,2115.15,0.05,3.3
+ORD0016,28-01-2025,04-02-2025,Customer_022,Male,Madurai,Electronics,USB Cable,UPI,3,3910.25,0,2.8
+ORD0017,30-01-2025,03-02-2025,Customer_029,Male,Coimbatore,Books,Python Basics, upi ,2,2453.81,0,2.7
+ORD0018,31-01-2025,02-02-2025,Customer_055,FEMALE,Madurai,Books,Data Science Guide,Debit Card,2,4927.9,0.1,5
+ORD0019,02-02-2025,07-02-2025,Customer_003, male,Delhi,Books,Exam Guide,Cash,5,1946.02,0.2,3.3
+ORD0020,04-02-2025,06-02-2025,Customer_012,Female , Mumbai ,Clothing,T-Shirt,UPI,5,3772.93,0,
+ORD0021,06-02-2025,11-02-2025,Customer_026, male,Hyderabad,Home,Cushion,Cash,5,2025.65,0.05,3.1
+ORD0022,08-02-2025,11-02-2025,Customer_016,FEMALE,Hyderabad,Electronics,Wireless Mouse, upi ,3,4162.9,0.15,4.2
+ORD0023,10-02-2025,15-02-2025,Customer_051,FEMALE,Pune,Home,Table Lamp, upi ,5,2888.5,0,4.4
+ORD0024,11-02-2025,15-02-2025,Customer_037, male,Coimbatore,Books,Novel,UPI,1,411.21,0,4
+ORD0025,13-02-2025,14-02-2025,Customer_022,FEMALE,Bengaluru,Books,Python Basics,Debit Card,4,280.43,0.1,3.7
+ORD0026,15-02-2025,20-02-2025,Customer_057, male,Bengaluru,Home,Cushion,Credit Card,1,755.88,0.2,3.5
+ORD0027,17-02-2025,22-02-2025,Customer_029,Female,Madurai,Home,Table Lamp,UPI,1,166.99,0.15,3.4
+ORD0028,19-02-2025,20-02-2025,Customer_014, male,Pune,Home,Water Bottle,Credit Card,5,469.26,0.05,4.8
+ORD0029,20-02-2025,24-02-2025,Customer_028, male,Chennai,Books,Exam Guide,Credit Card,4,3489.4,0.15,4.6
+ORD0030,22-02-2025,24-02-2025,Customer_005,FEMALE,Madurai,Books,Exam Guide,Debit Card,4,2718.3,0.05,4.9
+ORD0031,24-02-2025,01-03-2025,Customer_047,FEMALE,Pune,Electronics,USB Cable,Credit Card,4,3774.56,0.2,2.8
+ORD0032,26-02-2025,27-02-2025,Customer_049,Male,Coimbatore,Electronics,Wireless Mouse,Credit Card,3,4574.51,0.05,4.3
+ORD0033,28-02-2025,03-03-2025,Customer_030,Male,Coimbatore,Books,Python Basics,Debit Card,5,2967.23,0.1,4.8
+ORD0034,02-03-2025,03-03-2025,Customer_046,Female,Coimbatore,Home,Water Bottle,Credit Card,4,3657.99,0.1,3
+ORD0035,03-03-2025,06-03-2025,Customer_052,Male,Coimbatore,Home,Storage Box,,3,3809.7,0.1,2.7
+ORD0036,05-03-2025,09-03-2025,Customer_005, male,Coimbatore,Electronics,Wireless Mouse,Credit Card,2,1951.47,0.1,4.4
+ORD0037,07-03-2025,09-03-2025,Customer_012,FEMALE,Pune,Books,Python Basics,UPI,2,1281.32,0.15,3.9
+ORD0038,09-03-2025,10-03-2025,Customer_016,Male,Pune,Electronics,Wireless Mouse,UPI,3,1104.72,0.2,4.6
+ORD0039,11-03-2025,18-03-2025,Customer_026,Male,Hyderabad,Electronics,Headphones,UPI,3,1332.07,0.05,2.8
+ORD0040,12-03-2025,19-03-2025,Customer_026,Female,Delhi,Clothing,T-Shirt,Debit Card,5,1446.19,0.05,4.5
+ORD0041,14-03-2025,20-03-2025,Customer_048,Female,Bengaluru,Clothing,Sneakers, upi ,5,1115.42,0.1,3
+ORD0042,16-03-2025,21-03-2025,Customer_021, male, Mumbai ,Clothing,T-Shirt,Credit Card,2,4403.28,0.1,2.9
+ORD0043,18-03-2025,22-03-2025,Customer_039,FEMALE,Coimbatore,Home,Cushion,Credit Card,4,3809.3,0,2.9
+ORD0044,20-03-2025,21-03-2025,Customer_036,Female,Chennai,Books,Exam Guide,Debit Card,2,329.79,0.2,4.5
+ORD0045,22-03-2025,29-03-2025,Customer_033,Male, Mumbai ,Books,Exam Guide,Credit Card,4,1416.5,0.15,4.2
+ORD0046,23-03-2025,28-03-2025,Customer_030,FEMALE,Pune,Books,Novel,UPI,4,208.71,0.05,3.8
+ORD0047,25-03-2025,01-04-2025,Customer_037,FEMALE,Chennai,Books,Novel, upi ,5,2541.01,0,3.4
+ORD0048,27-03-2025,28-03-2025,Customer_023,Male,Chennai,Clothing,Jacket,Cash,1,2433.43,0,4.7
+ORD0049,29-03-2025,01-04-2025,Customer_058,Female,Chennai,Home,Water Bottle,Credit Card,1,4173.72,0.05,3.5
+ORD0050,31-03-2025,01-04-2025,Customer_010,Male,Hyderabad,Home,Cushion,UPI,3,1608.11,0.15,4.5
+ORD0051,01-04-2025,07-04-2025,Customer_054,FEMALE,Pune,Clothing,Jacket,Cash,5,4100.29,0,3.6
+ORD0052,03-04-2025,04-04-2025,Customer_005,Female ,Chennai,Home,Storage Box, upi ,4,4843.07,0,3.4
+ORD0053,05-04-2025,06-04-2025,Customer_036,Female ,Coimbatore,Clothing,T-Shirt,Cash,1,533.2,0.2,3.7
+ORD0054,07-04-2025,13-04-2025,Customer_034, male,Madurai,Books,Novel,UPI,4,3979.91,0.15,3.3
+ORD0055,09-04-2025,13-04-2025,Customer_052,Male,Chennai,Clothing,T-Shirt,Cash,1,2990.78,0,4.4
+ORD0056,11-04-2025,12-04-2025,,Male,Hyderabad,Books,Data Science Guide,Debit Card,1,2452.23,0.15,3.8
+ORD0057,12-04-2025,18-04-2025,Customer_010, male, Mumbai ,Books,Novel,Cash,1,2160.63,0.05,3.1
+ORD0058,14-04-2025,19-04-2025,Customer_058, male,Pune,Electronics,Keyboard,Credit Card,5,3944.87,0.1,4.7
+ORD0059,16-04-2025,19-04-2025,Customer_019, male,Delhi,Clothing,T-Shirt,Credit Card,2,3232.87,0,3.5
+ORD0060,18-04-2025,21-04-2025,Customer_058,FEMALE,Hyderabad,Electronics,USB Cable,Debit Card,4,4044.72,0.2,3.9
+ORD0061,20-04-2025,21-04-2025,Customer_032,Male,Chennai,Clothing,Jacket,UPI,5,4525.44,0.05,4.8
+ORD0062,21-04-2025,25-04-2025,Customer_001,FEMALE,Pune,Clothing,T-Shirt,Credit Card,5,3124.59,0.15,4.1
+ORD0063,23-04-2025,27-04-2025,Customer_056, male,Madurai,Electronics,USB Cable, upi ,5,4904.27,0.05,2.8
+ORD0064,25-04-2025,30-04-2025,Customer_005,Male,Chennai,Electronics,USB Cable,Credit Card,5,3079.63,0,4.8
+ORD0065,27-04-2025,28-04-2025,Customer_045,FEMALE,Hyderabad,Clothing,Jeans,Credit Card,5,3219.56,0.15,4.1
+ORD0066,29-04-2025,02-05-2025,Customer_004,FEMALE,Bengaluru,Home,Water Bottle,UPI,3,2818.6,0.1,3.3
+ORD0067,01-05-2025,05-05-2025,Customer_016, male,Coimbatore,Books,Exam Guide,Cash,4,545.91,0.05,2.8
+ORD0068,02-05-2025,03-05-2025,Customer_024,Male,Delhi,Electronics,Headphones,Credit Card,5,3659.35,0,4.5
+ORD0069,04-05-2025,11-05-2025,Customer_016, male, Mumbai ,Books,Novel,Debit Card,4,2782.49,0.2,4.1
+ORD0070,06-05-2025,10-05-2025,Customer_055,Male,Hyderabad,Home,Table Lamp,Cash,3,2309.46,0.15,3.8
+ORD0071,08-05-2025,14-05-2025,Customer_002,Female ,Pune,Home,Cushion, upi ,3,4561.31,0.05,4.7
+ORD0072,10-05-2025,17-05-2025,Customer_049,Female,Delhi,Home,Water Bottle,UPI,4,1560,0.05,4.5
+ORD0073,11-05-2025,15-05-2025,Customer_028,Female,Delhi,Electronics,Headphones, upi ,1,2665.65,0.1,2.9
+ORD0074,13-05-2025,16-05-2025,Customer_032,Female,Delhi,Home,Cushion,Cash,2,3518.45,0.1,3.3
+ORD0075,15-05-2025,17-05-2025,Customer_027, male,Chennai,Electronics,USB Cable,Cash,1,4002.71,0.2,3.1
+ORD0076,17-05-2025,24-05-2025,Customer_020,Female ,Coimbatore,Home,Table Lamp,Cash,1,2350.8,0.2,4.4
+ORD0077,19-05-2025,24-05-2025,Customer_024,Male,Chennai,Books,Novel, upi ,1,4226.25,0,2.6
+ORD0078,21-05-2025,26-05-2025,Customer_012,FEMALE,Pune,Books,Novel,Cash,5,3867.7,0,3.9
+ORD0079,22-05-2025,25-05-2025,Customer_050,Male,Chennai,Clothing,T-Shirt, upi ,3,424.56,0.2,4.4
+ORD0080,24-05-2025,28-05-2025,Customer_035,FEMALE,Bengaluru,Books,Novel,Cash,1,324.72,0.2,4.7
+ORD0081,26-05-2025,27-05-2025,Customer_060,Male,Coimbatore,Clothing,T-Shirt,Debit Card,3,,0.15,3.4
+ORD0082,28-05-2025,01-06-2025,Customer_033,Female ,Coimbatore,Books,Novel,Cash,4,1802.33,0.1,4.6
+ORD0083,30-05-2025,02-06-2025,Customer_033,FEMALE,Pune,Electronics,Keyboard, upi ,2,1124.74,0,2.8
+ORD0084,31-05-2025,05-06-2025,Customer_051, male, Mumbai ,Books,Novel,Credit Card,4,2940.28,0.1,4.6
+ORD0085,02-06-2025,06-06-2025,Customer_043,Male,Bengaluru,Clothing,T-Shirt,Cash,4,1773.66,0.1,2.8
+ORD0086,04-06-2025,09-06-2025,Customer_037,Male,Hyderabad,Clothing,T-Shirt,Credit Card,5,2732.59,0.2,3.5
+ORD0087,06-06-2025,13-06-2025,Customer_012,FEMALE,Chennai,Home,Table Lamp,Debit Card,2,2354.58,0.15,4.5
+ORD0088,08-06-2025,09-06-2025,Customer_003, male,Madurai,Electronics,Headphones,UPI,4,2965.35,0.05,2.9
+ORD0089,10-06-2025,17-06-2025,Customer_001, male,Chennai,Books,Novel,Debit Card,4,2061.47,0.15,3.1
+ORD0090,11-06-2025,16-06-2025,Customer_033,Female ,Delhi,Home,Table Lamp,Cash,2,3518.57,0.15,4.3
+ORD0091,13-06-2025,18-06-2025,Customer_040, male,Chennai,Books,Novel,Credit Card,2,982.33,0.1,4.3
+ORD0092,15-06-2025,17-06-2025,Customer_010, male,Hyderabad,Books,Novel,Credit Card,4,3512.86,0.15,4.1
+ORD0093,17-06-2025,19-06-2025,Customer_043, male,Chennai,Home,Water Bottle, upi ,2,2117.14,0,4.2
+ORD0094,19-06-2025,26-06-2025,Customer_044,Female,Bengaluru,Home,Storage Box,Credit Card,4,4384.16,0.1,3.9
+ORD0095,20-06-2025,26-06-2025,Customer_029,Female ,Bengaluru,Home,Storage Box, upi ,4,2624.66,0,3.1
+ORD0096,22-06-2025,29-06-2025,Customer_013,Male,Coimbatore,Home,Table Lamp,UPI,5,4868.24,0.05,3.4
+ORD0097,24-06-2025,26-06-2025,Customer_012,FEMALE,Pune,Home,Table Lamp,Cash,1,3049.48,0.1,3
+ORD0098,26-06-2025,01-07-2025,Customer_031,Male, Mumbai ,Books,Exam Guide, upi ,4,1196.86,0.05,4.8
+ORD0099,28-06-2025,01-07-2025,Customer_046,Female ,Madurai,Home,Water Bottle,UPI,3,4126.77,0.1,4
+ORD0100,30-06-2025,07-07-2025,Customer_002,FEMALE,Delhi,Electronics,Headphones,Credit Card,1,1790.9,0.2,3.5
+ORD0011,19-01-2025,21-01-2025,Customer_053,Male, Mumbai ,Clothing,Sneakers,Debit Card,5,505.47,0.05,2.9
